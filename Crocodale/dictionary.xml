@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<words>
+  <word text="Волк">
+    <category>Животные</category>
+    <games>0</games>
+	<success>0</success>
+  </word>
+  <word text="Радио">
+    <category>Техника</category>
+    <games>0</games>
+	<success>0</success>
+  </word>
+</words>
